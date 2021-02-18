@@ -3,13 +3,13 @@ server/node_modules
 server/.pnp
 .pnp.js
 
-# React Native
+# web
 web/node_modules
 web/.pnp
 .pnp.js
 yarn.lock
 
-#React Native
+# mobile
 mobile/node_modules
 mobile/.pnp
 mobile/.expo/*
